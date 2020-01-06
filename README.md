@@ -50,7 +50,7 @@ Sure!
 
 Found an error? Send a pull request. Cheers. 
 
-Want to transcribe the rest of the data--not limited to the Barings? You. are. **awesome**. Clone this repo, add the stuff, and send me a pull request. Enjoy endless good art history karma. 
+Want to transcribe the rest of the data--not limited to the Barings? You. are. **awesome**. Clone this repo, add the stuff, and send me a pull request. Enjoy endless good art history vibes. 
 
 ### What can I do with this?
 Anything you want. Nothing. Everything. 
